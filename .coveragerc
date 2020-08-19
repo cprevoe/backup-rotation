@@ -1,0 +1,6 @@
+[run]
+source =
+  src/main/python/
+  src/main/python/scripts/backup-rotation
+omit =
+  src/main/python/backup_rotation/__main__.py

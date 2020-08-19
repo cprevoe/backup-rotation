@@ -1,0 +1,12 @@
+venv/
+backups/
+__pycache__
+.make.*
+.coverage
+target
+deb_dist
+dist
+build
+*.egg-info
+*.tar.gz
+htmlcov/
